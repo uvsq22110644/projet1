@@ -5,6 +5,6 @@ projet 1
 # BESSAH RAOUF
 # GOREAU THELMA
 # VIGNERON THOMAS
-# https://github.com/Thelma47/projet1bis
+# https://github.com/Thelma47/projet1bi
 #########################################
 
